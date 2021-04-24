@@ -1,6 +1,6 @@
 # DNS
 
-dns is a library written in Go for TUN/TAP interfaces.
+dns is a library written in Go for Domain Name Server.
 
 ## Supported Platforms
 
@@ -17,7 +17,7 @@ Nothing...
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at [https://github.com/yoshikawa/tuntap](https://github.com/yoshikawa/tuntap).
+Bug reports and pull requests are welcome on GitHub at [https://github.com/yoshikawa/dns](https://github.com/yoshikawa/dns).
 
 This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
